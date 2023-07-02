@@ -1,0 +1,11 @@
+C:\Projetos\bmwlogo\BmwLogo\bin\Debug\BmwLogo.exe.config
+C:\Projetos\bmwlogo\BmwLogo\bin\Debug\BmwLogo.exe
+C:\Projetos\bmwlogo\BmwLogo\bin\Debug\BmwLogo.pdb
+C:\Projetos\bmwlogo\BmwLogo\obj\Debug\BmwLogo.csproj.AssemblyReference.cache
+C:\Projetos\bmwlogo\BmwLogo\obj\Debug\BmwLogo.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\bmwlogo\BmwLogo\obj\Debug\BmwLogo.Form1.resources
+C:\Projetos\bmwlogo\BmwLogo\obj\Debug\BmwLogo.Properties.Resources.resources
+C:\Projetos\bmwlogo\BmwLogo\obj\Debug\BmwLogo.csproj.GenerateResource.cache
+C:\Projetos\bmwlogo\BmwLogo\obj\Debug\BmwLogo.csproj.CoreCompileInputs.cache
+C:\Projetos\bmwlogo\BmwLogo\obj\Debug\BmwLogo.exe
+C:\Projetos\bmwlogo\BmwLogo\obj\Debug\BmwLogo.pdb
